@@ -1,12 +1,12 @@
 {
-  "name": "eslint-config-airbnb-typescript",
-  "description": "Airbnb's ESLint config with TypeScript support",
+  "name": "eslint-config-airbnb-base-typescript",
+  "description": "Airbnb Base ESLint config with TypeScript support",
   "license": "MIT",
   "author": "Matt Turnbull <matt@iamturns.com> (https://iamturns.com)",
-  "homepage": "https://github.com/iamturns/eslint-config-airbnb-typescript",
+  "homepage": "https://github.com/ekoeryanto/eslint-config-airbnb-base-typescript",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamturns/eslint-config-airbnb-typescript.git"
+    "url": "https://github.com/ekoeryanto/eslint-config-airbnb-base-typescript.git"
   },
   "bugs": {
     "url": "https://github.com/iamturns/eslint-config-airbnb-typescript/issues"
@@ -23,7 +23,6 @@
   },
   "dependencies": {
     "@typescript-eslint/parser": "^4.4.1",
-    "eslint-config-airbnb": "^18.2.0",
     "eslint-config-airbnb-base": "^14.2.0"
   },
   "devDependencies": {
