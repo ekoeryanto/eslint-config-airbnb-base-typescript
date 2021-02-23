@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['./base.js', 'prettier', 'prettier/@typescript-eslint'],
+  extends: ['./index.js', 'prettier', 'prettier/@typescript-eslint'],
   parserOptions: {
     project: './tsconfig.json',
   },
